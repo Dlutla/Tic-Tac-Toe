@@ -26,7 +26,6 @@ A classic interactive Tic-Tac-Toe game running entirely in the command line inte
 Follow these steps to clone the project, configure the virtual environment, install the required libraries, and launch the game:
 
 ### 1. Clone the repository
-Clone the project using **SSH** (recommended) or HTTPS and navigate to the directory:
 ```bash
 git clone https://github.com/Dlutla/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
