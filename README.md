@@ -1,4 +1,4 @@
-# ❌⭕ Tic-Tac-Toe (Console Edition)
+# Tic-Tac-Toe (Console Edition)
 
 A classic interactive Tic-Tac-Toe game running entirely in the command line interface. This project features enhanced terminal formatting using external packages to deliver a clean and structured gaming experience.
 
